@@ -4,7 +4,7 @@
             <div class="kleanity-mobile-header-container kleanity-container">
                 <div class="kleanity-logo  kleanity-item-pdlr">
                     <div class="kleanity-logo-inner">
-                        <a href="kleanity.html"><img src="/public/images/logo.png" alt="" /></a>
+                        <a href="<?= base_url() ?>"><img src="<?= base_url() ?>assets/images/logo.png" alt="" /></a>
                     </div>
                 </div>
                 <div class="kleanity-mobile-menu-right">
@@ -26,7 +26,7 @@
                     <div class="kleanity-mobile-menu"><a class="kleanity-mm-menu-button kleanity-mobile-menu-button kleanity-mobile-button-hamburger-with-border" href="#kleanity-mobile-menu"><i class="fa fa-bars"></i></a>
                         <div class="kleanity-mm-menu-wrap kleanity-navigation-font" id="kleanity-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item  menu-item-has-children"><a href="<?= base_url() ?>home/">Home</a>
+                                <li class="menu-item  menu-item-has-children"><a href="<?= base_url() ?>">Home</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children"><a href="<?= base_url() ?>home/katalog">Product</a>
                                 </li>
@@ -52,13 +52,13 @@
                         <div class="kleanity-header-container-inner clearfix">
                             <div class="kleanity-logo  kleanity-item-pdlr">
                                 <div class="kleanity-logo-inner">
-                                    <a href="kleanity.html"><img src="images/logo.png" alt="" /></a>
+                                    <a href="<?= base_url() ?>"><img src="<?= base_url() ?>assets/images/logo.png" alt="" /></a>
                                 </div>
                             </div>
                             <div class="kleanity-navigation kleanity-item-pdlr clearfix ">
                                 <div class="kleanity-main-menu" id="kleanity-main-menu">
                                     <ul id="menu-main-navigation-1" class="sf-menu">
-                                        <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="<?= base_url() ?>home/" class="sf-with-ul-pre">Home</a>
+                                        <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="<?= base_url() ?>" class="sf-with-ul-pre">Home</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="<?= base_url() ?>home/katalog">Product</a>
                                         </li>
