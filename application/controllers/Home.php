@@ -27,14 +27,6 @@ class Home extends CI_Controller
         $this->load->view('user/home');
         $this->load->view('user/desain/footer');
     }
-    public function katalog()
-    {
-        $data['judul'] = 'Product';
-        $this->load->view('user/desain/header', $data);
-        $this->load->view('user/desain/navbar');
-        $this->load->view('user/katalog');
-        $this->load->view('user/desain/footer');
-    }
     public function about()
     {
         $data['judul'] = 'About Us';
@@ -49,6 +41,14 @@ class Home extends CI_Controller
         $this->load->view('user/desain/header', $data);
         $this->load->view('user/desain/navbar');
         $this->load->view('user/blog');
+        $this->load->view('user/desain/footer');
+    }
+    public function katalog()
+    {
+        $data['judul'] = 'Product';
+        $this->load->view('user/desain/header', $data);
+        $this->load->view('user/desain/navbar');
+        $this->load->view('user/katalog');
         $this->load->view('user/desain/footer');
     }
 }

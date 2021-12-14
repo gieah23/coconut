@@ -28,7 +28,8 @@
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
 
-                    <?php // About Us Content ?>
+                    <?php // About Us Content 
+                    ?>
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 25px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -99,7 +100,7 @@
         <div class="gdlr-core-pbf-wrapper " style="padding: 60px 0px 0px 0px;">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
-                    
+
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 25px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -168,7 +169,8 @@
             </div>
         </div>
 
-       <?php // Story About Us Content ?>
+        <?php // Story About Us Content 
+        ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 40px 0px;">
             <div class="gdlr-core-pbf-background-wrap">
                 <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url('<?= base_url() ?>assets/upload/low-angle-shot-palm-trees-blue-cloudy-sky.jpg');background-repeat: repeat;background-position: center;" data-parallax-speed="0.2"></div>
@@ -214,7 +216,8 @@
             </div>
         </div>
 
-        <?php // Product Katalog Content ?>
+        <?php // Product Katalog Content 
+        ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 105px 0px 40px 0px;" data-skin="Blog Hp 6" id="katalog">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -348,7 +351,7 @@
                                 </div>
 
                             </div>
-                            <div class="gdlr-core-load-more-wrap gdlr-core-js gdlr-core-center-align gdlr-core-item-pdlr" data-ajax="gdlr_core_portfolio_ajax" data-target="gdlr-core-portfolio-item-holder" data-target-action="append"><a href="index.html" class="gdlr-core-load-more gdlr-core-button-color" data-ajax-name="paged" data-ajax-value="2">Load More</a></div>
+                            <div class="gdlr-core-button-item gdlr-core-item-pdlr gdlr-core-item-pdb gdlr-core-center-align"><a class="gdlr-core-button  gdlr-core-button-solid gdlr-core-button-no-border" href="<?= base_url() ?>home/katalog" style="font-size: 11px;padding: 19px 33px 19px 33px;"><span class="gdlr-core-content">Read More</span></a></div>
                         </div>
                     </div>
                     <div class="gdlr-core-pbf-column gdlr-core-column-60 gdlr-core-column-first">
@@ -368,7 +371,8 @@
             </div>
         </div>
 
-        <?php // IDK  what is this suppose to be ?>
+        <?php // IDK  what is this suppose to be 
+        ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
@@ -430,7 +434,8 @@
             </div>
         </div>
 
-        <?php // Partners Content ?>
+        <?php // Partners Content 
+        ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 50px 0px;" id="Partners">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -482,7 +487,8 @@
             </div>
         </div>
 
-        <?php //Blog Content ?>
+        <?php //Blog Content 
+        ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 40px 0px;" id="blog">
             <div class="gdlr-core-pbf-background-wrap">
                 <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url('<?= base_url() ?>assets/upload/low-angle-shot-coconut-trees-against-blue-sky-with-sun-shining-through-trees.jpg');background-repeat: repeat;background-position: center;" data-parallax-speed="0.5"></div>
