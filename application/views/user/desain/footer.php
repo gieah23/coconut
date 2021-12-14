@@ -29,29 +29,29 @@
 </div>
 
 
-<script type='text/javascript' src="<?= base_url("/asset/js/jquery/jquery.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/jquery/jquery-migrate.min.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/jquery.themepunch.tools.min.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/jquery.themepunch.revolution.min.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/snazzymaps.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/isotopefilter.js"); ?>"></script>
+<script type='text/javascript' src="assets/js/jquery/jquery.js"></script>
+<script type='text/javascript' src="assets/js/jquery/jquery-migrate.min.js"></script>
+<script type='text/javascript' src="assets/js/jquery.themepunch.tools.min.js"></script>
+<script type='text/javascript' src="assets/js/jquery.themepunch.revolution.min.js"></script>
+<script type='text/javascript' src="assets/js/snazzymaps.js"></script>
+<script type='text/javascript' src="assets/js/isotopefilter.js"></script>
 
-<script type='text/javascript' src="<?= base_url("/asset/js/jquery/ui/effect.min.js"); ?>"></script>
+<script type='text/javascript' src="assets/js/jquery/ui/effect.min.js"></script>
 
 
-<script type='text/javascript' src="<?= base_url("/asset/js/script.js"); ?>"></script>
-<script type='text/javascript' src="<?= base_url("/asset/js/combine.js"); ?>"></script>
+<script type='text/javascript' src="assets/js/script.js"></script>
+<script type='text/javascript' src="assets/js/combine.js"></script>
 
-<script type='text/javascript' src="<?= base_url("/asset/js/page-builder.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/quform/js/plugins.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/quform/js/scripts.js"); ?>"></script>
+<script type='text/javascript' src="assets/js/page-builder.js"></script>
+<script type="text/javascript" src="assets/quform/js/plugins.js"></script>
+<script type="text/javascript" src="assets/quform/js/scripts.js"></script>
 
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.slideanims.min.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.layeranimation.min.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.kenburn.min.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.navigation.min.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.parallax.min.js"); ?>"></script>
-<script type="text/javascript" src="<?= base_url("/asset/js/extensions/revolution.extension.actions.min.js"); ?>"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.slideanims.min.js"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.layeranimation.min.js"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.kenburn.min.js"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.navigation.min.js"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.parallax.min.js"></script>
+<script type="text/javascript" src="assets/js/extensions/revolution.extension.actions.min.js"></script>
 
 <script type="text/javascript">
     /*<![CDATA[*/
