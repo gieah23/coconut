@@ -1,6 +1,7 @@
 <div class="kleanity-page-wrapper" id="kleanity-page-wrapper">
     <div class="gdlr-core-page-builder-body">
-        <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
+
+        <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;" id="home">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
                     <div class="gdlr-core-pbf-element">
@@ -23,9 +24,11 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style=" padding: 60px 0px 0px 0px;">
+        <div class="gdlr-core-pbf-wrapper " style=" padding: 60px 0px 0px 0px;" id="about_us">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+
+                    <?php // About Us Content ?>
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 25px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -57,6 +60,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="gdlr-core-pbf-column gdlr-core-column-20">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 30px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -88,12 +92,14 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
         <div class="gdlr-core-pbf-wrapper " style="padding: 60px 0px 0px 0px;">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
+                    
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 25px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -125,6 +131,7 @@
                             </div>
                         </div>
                     </div>
+
                     <div class="gdlr-core-pbf-column gdlr-core-column-20">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 0px 0px 30px 0px;">
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js ">
@@ -156,12 +163,15 @@
                             </div>
                         </div>
                     </div>
+
                 </div>
             </div>
         </div>
+
+       <?php // Story About Us Content ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 90px 0px 40px 0px;">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/low-angle-shot-palm-trees-blue-cloudy-sky.jpg);background-repeat: repeat;background-position: center;" data-parallax-speed="0.2"></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url('<?= base_url() ?>assets/upload/low-angle-shot-palm-trees-blue-cloudy-sky.jpg');background-repeat: repeat;background-position: center;" data-parallax-speed="0.2"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -203,7 +213,9 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 105px 0px 40px 0px;" data-skin="Blog Hp 6">
+
+        <?php // Product Katalog Content ?>
+        <div class="gdlr-core-pbf-wrapper " style="padding: 105px 0px 40px 0px;" data-skin="Blog Hp 6" id="katalog">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-15 gdlr-core-column-first">
@@ -355,13 +367,15 @@
                 </div>
             </div>
         </div>
+
+        <?php // IDK  what is this suppose to be ?>
         <div class="gdlr-core-pbf-wrapper " style="padding: 0px 0px 0px 0px;">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-pbf-wrapper-full-no-space">
                     <div class="gdlr-core-pbf-column gdlr-core-column-30 gdlr-core-column-first">
                         <div class="gdlr-core-pbf-column-content-margin gdlr-core-js " style="padding: 100px 100px 0px 0px;" data-sync-height="height-1">
                             <div class="gdlr-core-pbf-background-wrap" style="background-color: #f1f0f0 ;">
-                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/beautiful-outdoor-nature-with-coconut-palm-tree-leaf-blue-sky.jpg);background-size: cover;background-position: center;" data-parallax-speed="0.2"></div>
+                                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url('<?= base_url() ?>assets/upload/beautiful-outdoor-nature-with-coconut-palm-tree-leaf-blue-sky.jpg');background-size: cover;background-position: center;" data-parallax-speed="0.2"></div>
                             </div>
                             <div class="gdlr-core-pbf-column-content clearfix gdlr-core-js  gdlr-core-sync-height-content" data-gdlr-animation="fadeInLeft" data-gdlr-animation-duration="600ms" data-gdlr-animation-offset="0.8"></div>
                         </div>
@@ -415,7 +429,9 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 50px 0px;">
+
+        <?php // Partners Content ?>
+        <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 50px 0px;" id="Partners">
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
                     <div class="gdlr-core-pbf-column gdlr-core-column-20 gdlr-core-column-first">
@@ -465,9 +481,11 @@
                 </div>
             </div>
         </div>
-        <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 40px 0px;">
+
+        <?php //Blog Content ?>
+        <div class="gdlr-core-pbf-wrapper " style="padding: 120px 0px 40px 0px;" id="blog">
             <div class="gdlr-core-pbf-background-wrap">
-                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url(upload/low-angle-shot-coconut-trees-against-blue-sky-with-sun-shining-through-trees.jpg);background-repeat: repeat;background-position: center;" data-parallax-speed="0.5"></div>
+                <div class="gdlr-core-pbf-background gdlr-core-parallax gdlr-core-js" style="background-image: url('<?= base_url() ?>assets/upload/low-angle-shot-coconut-trees-against-blue-sky-with-sun-shining-through-trees.jpg');background-repeat: repeat;background-position: center;" data-parallax-speed="0.5"></div>
             </div>
             <div class="gdlr-core-pbf-wrapper-content gdlr-core-js ">
                 <div class="gdlr-core-pbf-wrapper-container clearfix gdlr-core-container">
@@ -559,5 +577,6 @@
                 </div>
             </div>
         </div>
+
     </div>
 </div>
