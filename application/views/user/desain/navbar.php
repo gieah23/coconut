@@ -26,13 +26,13 @@
                     <div class="kleanity-mobile-menu"><a class="kleanity-mm-menu-button kleanity-mobile-menu-button kleanity-mobile-button-hamburger-with-border" href="#kleanity-mobile-menu"><i class="fa fa-bars"></i></a>
                         <div class="kleanity-mm-menu-wrap kleanity-navigation-font" id="kleanity-mobile-menu" data-slide="right">
                             <ul id="menu-main-navigation" class="m-menu">
-                                <li class="menu-item  menu-item-has-children"><a href="#home">Home</a>
+                                <li class="menu-item  menu-item-has-children"><a href="<?= base_url(); ?>">Home</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children "><a href="#about_us" class="sf-with-ul-pre">About Us</a>
+                                <li class="menu-item menu-item-has-children "><a href="<?= base_url(); ?>about" class="sf-with-ul-pre">About Us</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="#katalog">Product</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?= base_url(); ?>katalog">Product</a>
                                 </li>
-                                <li class="menu-item menu-item-has-children"><a href="#blog">Blog</a>
+                                <li class="menu-item menu-item-has-children"><a href="<?= base_url(); ?>blog">Blog</a>
                                 </li>
                                 <li class="menu-item menu-item-has-children"><a href="#">Login</a>
                                 </li>
@@ -58,13 +58,17 @@
                             <div class="kleanity-navigation kleanity-item-pdlr clearfix ">
                                 <div class="kleanity-main-menu" id="kleanity-main-menu">
                                     <ul id="menu-main-navigation-1" class="sf-menu">
-                                        <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="#home" class="sf-with-ul-pre">Home</a>
+                                        <li class="menu-item menu-item-has-children kleanity-normal-menu">
+                                            <a href="<?= base_url(); ?>" class="sf-with-ul-pre">Home</a>
                                         </li>
-                                        <li class="menu-item menu-item-has-children kleanity-mega-menu"><a href='#about_us' class="sf-with-ul-pre">About Us</a>
+                                        <li class="menu-item menu-item-has-children kleanity-mega-menu">
+                                            <a href="<?= base_url(); ?>about" class="sf-with-ul-pre">About Us</a>
                                         </li>
-                                        <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="<?= base_url(); ?>katalog">Product</a>
+                                        <li class="menu-item menu-item-has-children kleanity-normal-menu">
+                                            <a href="<?= base_url(); ?>katalog" class="sf-with-ul-pre">Product</a>
                                         </li>
-                                        <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="#blog" class="sf-with-ul-pre">Blog</a>
+                                        <li class="menu-item menu-item-has-children kleanity-normal-menu">
+                                            <a href="<?= base_url(); ?>blog" class="sf-with-ul-pre">Blog</a>
                                         </li>
                                         <li class="menu-item menu-item-has-children kleanity-normal-menu"><a href="#" class="sf-with-ul-pre">Login</a>
                                         </li>

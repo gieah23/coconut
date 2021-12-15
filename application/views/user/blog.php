@@ -22,7 +22,7 @@
                                 <div class="gdlr-core-blog-item-holder gdlr-core-js-2 clearfix" data-layout="fitrows">
                                     <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-pdlr gdlr-core-style-left">
                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="../2016/06/06/this-is-an-awesome-sticky-post/index.html"><img src="upload/hands-coffee-smartphone-technology-800x533.jpg" width="1920" height="1280" alt="">
+                                            <a href="../2016/06/06/this-is-an-awesome-sticky-post/index.html"><img src="<?= base_url() ?>assets/upload/hands-coffee-smartphone-technology-800x533.jpg" width="1920" height="1280" alt="">
                                                 <div class="gdlr-core-sticky-banner gdlr-core-title-font"><i class="fa fa-bolt"></i>Sticky Post</div>
                                             </a>
                                         </div>
@@ -40,17 +40,17 @@
                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-gallery">
                                             <div class="gdlr-core-gallery-shortcode-grid-fixed clearfix">
                                                 <div class=" gdlr-core-gallery-shortcode-item gdlr-core-media-image  gdlr-core-first">
-                                                    <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/city-cars-traffic-lights.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="upload/city-cars-traffic-lights-500x692.jpg" width="500" height="692" alt=""></a>
+                                                    <a class="gdlr-core-ilightbox gdlr-core-js " href="<?= base_url() ?>assets/upload/city-cars-traffic-lights.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="<?= base_url() ?>assets/upload/city-cars-traffic-lights-500x692.jpg" width="500" height="692" alt=""></a>
                                                 </div>
                                                 <div class="gdlr-core-gallery-shortcode-item-right">
                                                     <div class=" gdlr-core-gallery-shortcode-item gdlr-core-media-image  gdlr-core-second">
-                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/city-sunny-people-street.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="upload/city-sunny-people-street-500x346.jpg" width="500" height="346" alt=""></a>
+                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="<?= base_url() ?>assets/upload/city-sunny-people-street.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="<?= base_url() ?>assets/upload/city-sunny-people-street-500x346.jpg" width="500" height="346" alt=""></a>
                                                     </div>
                                                     <div class=" gdlr-core-gallery-shortcode-item gdlr-core-media-image  gdlr-core-third">
-                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/type-away-numero-dos.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="upload/type-away-numero-dos-500x346.jpg" width="500" height="346" alt=""></a>
+                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="<?= base_url() ?>assets/upload/type-away-numero-dos.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="<?= base_url() ?>assets/upload/type-away-numero-dos-500x346.jpg" width="500" height="346" alt=""></a>
                                                     </div>
                                                     <div class=" gdlr-core-gallery-shortcode-item gdlr-core-media-image  gdlr-core-fourth">
-                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="upload/people-eiffel-tower-lights-night.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="upload/people-eiffel-tower-lights-night-1000x346.jpg" width="1000" height="346" alt=""></a>
+                                                        <a class="gdlr-core-ilightbox gdlr-core-js " href="<?= base_url() ?>assets/upload/people-eiffel-tower-lights-night.jpg" data-ilightbox-group="gdlr-core-img-group-1"><img src="<?= base_url() ?>assets/upload/people-eiffel-tower-lights-night-1000x346.jpg" width="1000" height="346" alt=""></a>
                                                     </div>
                                                 </div>
                                             </div>
@@ -67,7 +67,7 @@
                                     </div>
                                     <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-pdlr gdlr-core-style-left">
                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="../2016/06/06/possession-of-my-entire-soul/index.html"><img src="upload/notebook-computer-chill-relax-800x533.jpg" width="1920" height="1280" alt=""></a>
+                                            <a href="../2016/06/06/possession-of-my-entire-soul/index.html"><img src="<?= base_url() ?>assets/upload/notebook-computer-chill-relax-800x533.jpg" width="1920" height="1280" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
                                             <div class="gdlr-core-blog-full-head clearfix">
@@ -84,7 +84,7 @@
                                             <div class="gdlr-core-audio">
                                                 <!--[if lt IE 9]><script>document.createElement('audio');</script><![endif]-->
                                                 <audio class="wp-audio-shortcode" id="audio-1255-1" preload="none" style="width: 100%;" controls="controls">
-                                                    <source type="audio/mpeg" src="upload/wm_far_away.mp3?_=1"><a href="upload/wm_far_away.mp3">upload/wm_far_away.mp3</a>
+                                                    <source type="audio/mpeg" src="<?= base_url() ?>assets/upload/wm_far_away.mp3?_=1"><a href="<?= base_url() ?>assets/upload/wm_far_away.mp3">upload/wm_far_away.mp3</a>
                                                 </audio>
                                             </div>
                                         </div>
@@ -113,7 +113,7 @@
                                     </div>
                                     <div class="gdlr-core-item-list gdlr-core-blog-full  gdlr-core-item-pdlr gdlr-core-style-left">
                                         <div class="gdlr-core-blog-thumbnail gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="../2016/06/06/i-sink-under-the-weight/index.html"><img src="upload/355b160e-800x530.jpg" width="1920" height="1272" alt=""></a>
+                                            <a href="../2016/06/06/i-sink-under-the-weight/index.html"><img src="<?= base_url() ?>assets/upload/355b160e-800x530.jpg" width="1920" height="1272" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-blog-full-frame gdlr-core-skin-e-background">
                                             <div class="gdlr-core-blog-full-head clearfix">
@@ -144,31 +144,31 @@
                             <h3 class="kleanity-widget-title"><span class="kleanity-widget-head-text">Recent Works</span><span class="kleanity-widget-head-divider"></span></h3><span class="clear"></span>
                             <div class="gdlr-core-recent-portfolio-widget-wrap clearfix">
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/yellow-green-sofa/index.html"><img src="upload/colored-sofa-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/yellow-green-sofa/index.html"><img src="<?= base_url() ?>assets/upload/colored-sofa-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/the-wooden-clock/index.html"><img src="upload/wooden-clock-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/the-wooden-clock/index.html"><img src="<?= base_url() ?>assets/upload/wooden-clock-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/typography-frame/index.html"><img src="upload/typo-frame-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/typography-frame/index.html"><img src="<?= base_url() ?>assets/upload/typo-frame-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/black-white-photo/index.html"><img src="upload/typewriter-keys-mechanically-letters-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/black-white-photo/index.html"><img src="<?= base_url() ?>assets/upload/typewriter-keys-mechanically-letters-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/minimal-notebook-design/index.html"><img src="upload/brown-notebook-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/minimal-notebook-design/index.html"><img src="<?= base_url() ?>assets/upload/brown-notebook-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/moled-shell-chair/index.html"><img src="upload/minimal-chair-black-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/moled-shell-chair/index.html"><img src="<?= base_url() ?>assets/upload/minimal-chair-black-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/the-coffee-bag/index.html"><img src="upload/minimal-bag-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/the-coffee-bag/index.html"><img src="<?= base_url() ?>assets/upload/minimal-bag-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/small-desk-lamp/index.html"><img src="upload/green-scene-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/small-desk-lamp/index.html"><img src="<?= base_url() ?>assets/upload/green-scene-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                                 <div class="gdlr-core-recent-portfolio-widget gdlr-core-media-image">
-                                    <a href="../portfolio/minimal-white-clock/index.html"><img src="upload/minimal-clock-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
+                                    <a href="../portfolio/minimal-white-clock/index.html"><img src="<?= base_url() ?>assets/upload/minimal-clock-150x150.jpg" alt="" width="150" height="150"><span class="gdlr-core-image-overlay "><i class="gdlr-core-image-overlay-icon icon_link_alt gdlr-core-size-15"></i></span></a>
                                 </div>
                             </div>
                         </div>

@@ -130,7 +130,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/julio.71152fa4.png" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/julio.71152fa4.png" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">Julio</a></h3>
@@ -142,7 +142,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/hafis.7ef4e4a6.png" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/hafis.7ef4e4a6.png" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">Alhafis Wijaya</a></h3>
@@ -154,7 +154,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/stella.1a8cdc31.png" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/stella.1a8cdc31.png" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">Stella Carrisa</a></h3>
@@ -166,7 +166,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-column-first gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/personnel-6-400x363.jpg" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/personnel-6-400x363.jpg" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">Peter Sandler</a></h3>
@@ -177,7 +177,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/personnel-2-400x363.jpg" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/personnel-2-400x363.jpg" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">Ricardo Gomez</a></h3>
@@ -188,7 +188,7 @@
                                 <div class="gdlr-core-personnel-list-column  gdlr-core-column-20 gdlr-core-item-pdlr">
                                     <div class="gdlr-core-personnel-list clearfix">
                                         <div class="gdlr-core-personnel-list-image gdlr-core-media-image  gdlr-core-opacity-on-hover gdlr-core-zoom-on-hover">
-                                            <a href="#"><img src="upload/personnel-4-400x363.jpg" width="550" height="500" alt=""></a>
+                                            <a href="#"><img src="<?= base_url() ?>assets/upload/personnel-4-400x363.jpg" width="550" height="500" alt=""></a>
                                         </div>
                                         <div class="gdlr-core-personnel-list-content-wrap">
                                             <h3 class="gdlr-core-personnel-list-title"><a href="#">James Smith</a></h3>
